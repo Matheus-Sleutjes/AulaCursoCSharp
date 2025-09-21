@@ -13,6 +13,18 @@ var numeroFlutuante = 3.14F; // float
 string[] nomes = ["Joao", "Vinicius"]; // array de strings
 var nomes2 = new List<string> { "Joao", "Vinicius" }; // lista de strings
 
+// int idade = 18; // inteiro
+// DateTime dataDeHoje = DateTime.Now; // data e hora
+// string nomeCompleto = "Matheus Silva"; // string
+// double valorDePi = 3.14; // double
+// bool estaChovendo = false; // booleano
+// char letra = 'A'; // char 
+// long numeroGrande = 1234567890123456789L; // long
+// decimal numeroDecimal = 19.99M; // decimal
+// float numeroFlutuante = 3.14F; // float
+// string[] nomes = ["Joao", "Vinicius"]; // array de strings
+// List<string> nomes2 = new List<string> { "Joao", "Vinicius" }; // lista de strings
+
 // Operadores Logicos
 // ==, !=, >, <, >=, <=, &&, ||, !
 // Igualdade ==
@@ -77,3 +89,5 @@ while (idade < 21)
     Console.WriteLine("Ainda não é adulto");
     idade++;
 }
+
+Console.Read();

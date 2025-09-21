@@ -9,7 +9,7 @@
         }
         public override void EmitirSom()
         {
-            Console.WriteLine($" o cachorro da raça {Raca}, está latindo.");
+            Console.WriteLine($"AU AU AU");
         }
         public void Buscar()
         {
